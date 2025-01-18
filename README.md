@@ -10,3 +10,4 @@ Data Persistence: Tasks are stored in local storage, so they persist even after 
 **Technologies Used:**
 React: JavaScript library for building user interfaces.
 CSS: For basic styling of the application.
+FontAwesome: For the trash bin icon used to delete tasks.
